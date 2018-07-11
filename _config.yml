@@ -1,14 +1,14 @@
 
-title: My Resume
+title: 개발공부용 깃허브
 url: 'sungbumvv.github.io'
 baseurl: '/PanelCV' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: 이성범(sungbeom lee)  ## put your name
+title: '초보 웹개발자'  ## your title
+location: 서울시 도봉구 쌍문4동 
 
 
 ## Social Profiles
